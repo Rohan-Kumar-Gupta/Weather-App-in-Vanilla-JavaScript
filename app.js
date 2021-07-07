@@ -1,7 +1,7 @@
 // api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
 const weatherApi = {
     key: "95758eeff77c9eb4687d60dc6586f8cb",
-    baseUrl: "http://api.openweathermap.org/data/2.5/weather"
+    baseUrl: "https://api.openweathermap.org/data/2.5/weather"
 }
 
 const searchInputBox = document.getElementById('input-box');
